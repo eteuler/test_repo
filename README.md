@@ -10,5 +10,5 @@ In the README, please include the following:
  - Once you've forked the code you'll need too........
 
 ### 3) Last, please include the POC and his/her contact information, and any other POC's relevant to the project 
- - Task Lead: Name McName / (803)-808-0000             
- - Other POC's: Sam Pulnaim / (308)-909-0000 
+ - Task Lead: Name Here / (803)-808-0000             
+ - Other POC's: Other Name Here / (308)-909-0000 
